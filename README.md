@@ -67,7 +67,7 @@ Libft is a fundamental project at 42 that recreates standard C library functions
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/[your-username]/libft.git
+git clone git@github.com:fsantos23/libft.git
 cd libft
 make
 ```
